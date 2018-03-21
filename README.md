@@ -1,2 +1,3 @@
 # aloha-world
-Yet another repository
+
+this = me + one cheesy github tutorial
